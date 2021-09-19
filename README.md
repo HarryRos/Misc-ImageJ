@@ -1,2 +1,3 @@
-# Misc
-Random pieces of code
+# Misc ImageJ
+
+Random scripts for Fiji/ImageJ
